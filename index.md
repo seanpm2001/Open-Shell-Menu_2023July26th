@@ -1,4 +1,4 @@
-## Welcome to the Home page of Open Shell ![Open-Shell](https://raw.githubusercontent.com/Open-Shell/Open-Shell-Menu/master/Src/Setup/OpenShell.ico)
+## Welcome to the Home page of Open-Shell-Menu ![Open-Shell](https://raw.githubusercontent.com/Open-Shell/Open-Shell-Menu/master/Src/Setup/OpenShell.ico)
 
 *Originally* **[Classic Shell](http://www.classicshell.net)** *by [Ivo Beltchev](https://sourceforge.net/u/ibeltchev/profile/)*
 
