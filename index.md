@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to the Home page of Open Shell ![Open-Shell](https://raw.githubusercontent.com/Open-Shell/Open-Shell-Menu/master/Src/Setup/OpenShell.ico)
 
-You can use the [editor on GitHub](https://github.com/Open-Shell/Open-Shell-Menu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+*Originally* **[Classic Shell](http://www.classicshell.net)** *by [Ivo Beltchev](https://sourceforge.net/u/ibeltchev/profile/)*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![GitHub Release](https://img.shields.io/github/release/Open-Shell/Open-Shell-Menu.svg)](https://github.com/Open-Shell/Open-Shell-Menu/releases) [![GitHub Pre-Release](https://img.shields.io/github/release/Open-Shell/Open-Shell-Menu/all.svg)](https://github.com/Open-Shell/Open-Shell-Menu/releases) [![Build status](https://ci.appveyor.com/api/projects/status/2wj5x5qoypfjj0tr/branch/master?svg=true)](https://ci.appveyor.com/project/passionate-coder/open-shell-menu/branch/master) [![GitQ](https://gitq.com/badge.svg)](https://gitq.com/passionate-coder/Classic-Start) [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/open-shell/Lobby)
 
-### Markdown
+[Home Page](https://open-shell.github.io/Open-Shell-Menu)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Discussion room](https://gitter.im/Open-Shell)
 
-```markdown
-Syntax highlighted code block
+[Latest nightly build](https://ci.appveyor.com/project/passionate-coder/open-shell-menu/branch/master/artifacts)
 
-# Header 1
-## Header 2
-### Header 3
+### Features
 
-- Bulleted
-- List
+- Classic style Start Menu for Windows 7, 8, 8.1, 10
+- Toolbar for Windows Explorer
+- Classic copy UI (Windows 7 only)
+- Show file size in Explorer status bar
+- Title bar and status bar for Internet Explorer
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+*For archival reasons, we have a mirror of `www.classicshell.net` [here](https://coddec.github.io/Classic-Shell/www.classicshell.net/).*
 
-[Link](url) and ![Image](src)
-```
+[How To Skin a Start Menu](https://coddec.github.io/Classic-Shell/www.classicshell.net/tutorials/skintutorial.html)
+	
+[Classic Shell - Custom Start Buttons](https://coddec.github.io/Classic-Shell/www.classicshell.net/tutorials/buttontutorial.html)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Open-Shell/Open-Shell-Menu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Report a bug/issue or submit a feature request](https://github.com/Open-Shell/Open-Shell-Menu/issues)
