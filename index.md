@@ -16,7 +16,8 @@
 - Title bar and status bar for Internet Explorer
 
 ### Download
-If you just want to use it or looking for setup file, click here to download:  
+If you just want to use it or looking for setup file, click here to download:
+
 [![GitHub All Releases](https://img.shields.io/github/downloads/Open-Shell/Open-Shell-Menu/total?style=for-the-badge)](https://github.com/Open-Shell/Open-Shell-Menu/releases)
 
 ### Temporary Translation/Language Solution 
