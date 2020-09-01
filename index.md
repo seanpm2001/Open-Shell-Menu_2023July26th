@@ -23,7 +23,7 @@ If you just want to use it or looking for setup file, click here to download:
 [Report issues](https://github.com/Open-Shell/Open-Shell-Menu/issues)  
 
 ### Temporary Translation/Language Solution 
-1. [Download language DLL](https://coddec.github.io/Classic-Shell/www.classicshell.net/translations/index.html)  
+1. Download [language DLL](https://coddec.github.io/Classic-Shell/www.classicshell.net/translations/index.html)  
 2. Place it either in the Open-Shell's __install folder__ or in the `%ALLUSERSPROFILE%\Open-Shell\Languages` folder.
 
 ---
