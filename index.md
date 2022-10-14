@@ -2,7 +2,7 @@
 
 *Originally* **[Classic Shell](http://www.classicshell.net)** *by [Ivo Beltchev](https://sourceforge.net/u/ibeltchev/profile/)*
 
-[![GitHub Release](https://img.shields.io/github/release/Open-Shell/Open-Shell-Menu.svg)](https://github.com/Open-Shell/Open-Shell-Menu/releases) [![GitHub Pre-Release](https://img.shields.io/github/release/Open-Shell/Open-Shell-Menu/all.svg)](https://github.com/Open-Shell/Open-Shell-Menu/releases) [![Build status](https://ci.appveyor.com/api/projects/status/2wj5x5qoypfjj0tr/branch/master?svg=true)](https://ci.appveyor.com/project/passionate-coder/open-shell-menu/branch/master) [![GitQ](https://gitq.com/badge.svg)](https://gitq.com/passionate-coder/Classic-Start) [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/open-shell/Lobby)
+[![GitHub Release](https://img.shields.io/github/release/Open-Shell/Open-Shell-Menu.svg)](https://github.com/Open-Shell/Open-Shell-Menu/releases/latest) [![GitHub Pre-Release](https://img.shields.io/github/release/Open-Shell/Open-Shell-Menu/all.svg)](https://github.com/Open-Shell/Open-Shell-Menu/releases) [![Build status](https://ci.appveyor.com/api/projects/status/2wj5x5qoypfjj0tr/branch/master?svg=true)](https://ci.appveyor.com/project/passionate-coder/open-shell-menu/branch/master) [![GitQ](https://gitq.com/badge.svg)](https://gitq.com/passionate-coder/Classic-Start) [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/open-shell/Lobby)
 
 ### Features
 - Classic style Start Menu for Windows 7, 8, 8.1, 10
@@ -12,15 +12,16 @@
 - Title bar and status bar for Internet Explorer
 
 ### Download
-If you just want to use it or looking for setup file, click here to download:
+If you just want to use it or looking for setup file, click here to download:  
+[Release](https://github.com/Open-Shell/Open-Shell-Menu/releases/latest)
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/Open-Shell/Open-Shell-Menu/total?style=for-the-badge)](https://github.com/Open-Shell/Open-Shell-Menu/releases)
-
-[Latest nightly build](https://ci.appveyor.com/project/passionate-coder/open-shell-menu/branch/master/artifacts)
+You can find latest nightly build here:  
+[Nightly builds](https://github.com/Open-Shell/Open-Shell-Menu/releases)
 
 ### Get help
-[Discussion room](https://gitter.im/Open-Shell)  
 [Report issues](https://github.com/Open-Shell/Open-Shell-Menu/issues)  
+[Discussions](https://github.com/Open-Shell/Open-Shell-Menu/discussions)  
+[Gitter room](https://gitter.im/Open-Shell)  
 
 ### Temporary Translation/Language Solution 
 1. Download [language DLL](https://coddec.github.io/Classic-Shell/www.classicshell.net/translations/index.html)  
