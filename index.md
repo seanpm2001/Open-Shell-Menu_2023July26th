@@ -34,5 +34,3 @@ __[Nightly builds](https://github.com/Open-Shell/Open-Shell-Menu/releases)__
 
 [How To Skin a Start Menu](https://coddec.github.io/Classic-Shell/www.classicshell.net/tutorials/skintutorial.html)  
 [Classic Shell: Custom Start Buttons](https://coddec.github.io/Classic-Shell/www.classicshell.net/tutorials/buttontutorial.html)  
-[Submit a bug report/feature request](https://github.com/Open-Shell/Open-Shell-Menu/issues)  
-
